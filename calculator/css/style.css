@@ -41,15 +41,17 @@
 
 .col3{
     width: 60%;
+    color: rgb(199, 192, 192);
 }
+
 
 .collbl{
     width: 80%;
     text-align: right;
-    background-color: rgba(0, 0, 0, 0.534);
+    background-image: linear-gradient(to right ,rgb(199, 192, 192),rgba(0, 0, 0, 0.80),  rgba(0, 0, 0, 0.80)  ,rgb(199, 192, 192));
     padding: 10px 30px;
     font-size: 48px;
     margin-left: -2px;
     color: white;
-    
+    border: 1px solid black;
 }
