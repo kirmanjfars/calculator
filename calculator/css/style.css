@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.colbt{
+    width: 20%;
+    padding: 20px;
+    font-size: 32px;
+    margin: -2px;
+    background-color: rgb(228, 228, 228);
+    border: 1px solid black;
+}
+
+.col0{
+    width: 40%;
+    padding: 20px;
+    background-color: rgb(228, 228, 228);
+    border: 1px solid black;
+    margin: -2px;
+    font-size: 32px;
+}
+
+.yel{
+    background-color: orange;
+    color: white;
+}
+
+
+
+.col1{
+    width: 40%;
+    margin: 0% auto;
+}
+
+.col2{
+    width: 40%;
+}
+
+.col3{
+    width: 60%;
+}
+
+.collbl{
+    width: 80%;
+    text-align: right;
+    background-color: rgba(0, 0, 0, 0.534);
+    padding: 10px 30px;
+    font-size: 48px;
+    margin-left: -2px;
+    color: white;
+    
+}
